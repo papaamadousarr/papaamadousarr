@@ -64,4 +64,56 @@ graph LR
     D --> J[Hardening]
 ```
 </div>
+
+</div>
+<div align="center">
+
+## 🛠️ Stack Technique Complète
+
+<details>
+<summary><b>📌 Cliquez pour voir mon stack complet</b></summary>
+
+### 🌐 Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🛡️ Sécurité
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burp-suite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### 🗃️ Bases de Données
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</details>
+</div>
+
+## 📊 GitHub Analytics Avancés
+
+<div align="center">
+
+[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=votreusername&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=votreusername&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Streak Stats](https://streak-stats.demolab.com?user=votreusername&theme=radical&border_radius=5&mode=weekly&fire=DD2727)](https://git.io/streak-stats)
+
+[![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=votreusername&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
