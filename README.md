@@ -8,7 +8,7 @@
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=papaamadou&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views"/> 
-    <a href="https://twitter.com/amadou_ndao"><img src="https://img.shields.io/twitter/follow/amadou_ndao?logo=twitter&style=flat-square" alt="Twitter Follow"/></a>
+    <a href="https://twitter.com/ahmadou_sarr3"><img src="https://img.shields.io/twitter/follow/ahmadou_sarr3?logo=twitter&style=flat-square" alt="Twitter Follow"/></a>
     <img src="https://img.shields.io/badge/Dakar-Senegal-008751?logo=location&style=flat" alt="Location"/>
   </p>
 </div>
@@ -16,7 +16,7 @@
 <!-- Section À Propos avec GIF -->
 ## 🚀 À Propos de Moi
 
-**Développeur Full Stack Senior** spécialisé dans les architectures cloud-native et les pratiques DevSecOps. Passionné par :
+**Développeur Full Stack Junior** spécialisé dans le developpement backend, frontend, mobile et les pratiques DevSecOps. Passionné par :
 
 <div align="center">
 
@@ -35,8 +35,8 @@
 
 | Poste | Organisation | Emoji |
 |-------|-------------|-------|
-| Architecte Solutions | @ Zone01 Dakar | 🏢 |
-| CTO | @ HASTECH GROUP | 👨‍💻 |
+| Architecte Solutions/Full Stack Developper | @ Zone01 Dakar | 🏢 |
+| Board Member | @ HASTECH GROUP | 👨‍💻 |
 | Mentor Technique | @ Kserv Group | 🎓 |
 
 </div>
