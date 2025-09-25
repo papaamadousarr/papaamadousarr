@@ -37,7 +37,7 @@
 |-------|-------------|-------|
 | Architecte Solutions | @ Zone01 Dakar | 🏢 |
 | CTO | @ HASTECH GROUP | 👨‍💻 |
-| Mentor Technique | @ Google Developer Groups | 🎓 |
+| Mentor Technique | @ Kserv Group | 🎓 |
 
 </div>
 
