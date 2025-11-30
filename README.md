@@ -1,119 +1,228 @@
 <!-- Header Animé -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Papa%20Amadou&fontSize=60&fontAlignY=35&animation=fadeIn" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Papa%20Amadou%20Sarr&fontSize=50&fontAlignY=35&animation=fadeIn" alt="Header"/>
   
   <h3>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22F7A3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cybersecurity+Researcher;Go%2FRust+Enthusiast;Open+Source+Contributor" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22F7A3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+@+Zone01+Dakar;Go+%7C+Rust+%7C+TypeScript+Specialist;DevOps+%26+CI/CD+Automation;Building+Scalable+Solutions" alt="Typing Animation" />
   </h3>
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=papaamadou&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views"/> 
     <a href="https://twitter.com/ahmadou_sarr3"><img src="https://img.shields.io/twitter/follow/ahmadou_sarr3?logo=twitter&style=flat-square" alt="Twitter Follow"/></a>
+    <a href="https://linkedin.com/in/papa-amadou-sarr734b63201"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
     <img src="https://img.shields.io/badge/Dakar-Senegal-008751?logo=location&style=flat" alt="Location"/>
   </p>
 </div>
 
-<!-- Section À Propos avec GIF -->
-## 🚀 À Propos de Moi
+---
 
-**Développeur Full Stack Junior** spécialisé dans le developpement backend, frontend, mobile et les pratiques DevSecOps. Passionné par :
+## 👨‍💻 À Propos de Moi
+
+**Développeur Full Stack & DevOps** passionné par la création d'applications scalables et l'automatisation. Actuellement chez **Zone01 Dakar** avec **2+ ans d'expérience** dans le développement de solutions innovantes.
+
+🎓 **Diplômé** en Sciences des Technologies de l'Information et de la Communication (Université Amadou Hampathé BA)
 
 <div align="center">
 
-| Passion | Description | 
-|---------|-------------|
-| 🏗️ **Conception** | Systèmes distribués robustes et évolutifs |
-| 🔐 **Sécurité** | Intégration dans le cycle de vie (SDLC) |
-| 🤖 **Automatisation** | Workflows intelligents et CI/CD avancés |
-| 🌍 **Open Source** | Solutions pour le marché africain |
+| 🎯 Spécialités | 💡 Expertise |
+|---------------|-------------|
+| **Full Stack** | Applications web, mobile, SaaS |
+| **DevOps** | CI/CD, Automatisation, Infrastructure |
+| **Backend** | Go, Rust, TypeScript, Python |
+| **Frontend** | Angular, React, Vue.js |
+| **Autres** | IA, Cybersécurité, GraphQL |
 
 </div>
 
-**Fonctions clés** :
+### 🔥 Ce qui me passionne
 
-<div align="center">
-
-| Poste | Organisation | Emoji |
-|-------|-------------|-------|
-| Architecte Solutions/Full Stack Developper | @ Zone01 Dakar | 🏢 |
-| Board Member | @ HASTECH GROUP | 👨‍💻 |
-| Mentor Technique | @ Kserv Group | 🎓 |
-
-</div>
-
-<!-- Version alternative avec badges -->
-<div align="center">
-
-[![Architecte](https://img.shields.io/badge/-Architecte_Solutions-2496ED?style=flat-square&logo=architecture&logoColor=white)](https://zone01.org/)
-[![CTO](https://img.shields.io/badge/-CTO-FF2D20?style=flat-square&logo=chief-technology-officer&logoColor=white)](https://hastechgroup.com/)
-[![Mentor](https://img.shields.io/badge/-Mentor-4285F4?style=flat-square&logo=google-developers&logoColor=white)](https://developers.google.com/)
-<div align="center">
-  <img src="https://github.com/papaamadou/papaamadou/blob/main/assets/code.gif?raw=true" width="300" align="right" alt="Coding GIF"/>
-  
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#ff0', 'edgeLabelBackground':'#fff'}}}%%
-graph LR
-    A[Passion Tech] --> B[Full Stack]
-    A --> C[DevOps]
-    A --> D[Security]
-    B --> E[Frontend]
-    B --> F[Backend]
-    C --> G[Cloud]
-    C --> H[Automation]
-    D --> I[Pentesting]
-    D --> J[Hardening]
+```typescript
+const passions = {
+  architecture: "Systèmes distribués robustes et évolutifs",
+  automation: "Pipelines CI/CD et workflows intelligents",
+  security: "Pratiques DevSecOps et code sécurisé",
+  innovation: "Solutions pour les défis africains",
+  learning: "Toujours curieux, toujours en apprentissage"
+};
 ```
-</div>
 
-</div>
+---
+
+## 🛠️ Stack Technique
+
 <div align="center">
 
-## 🛠️ Stack Technique Complète
-
-<details>
-<summary><b>📌 Cliquez pour voir mon stack complet</b></summary>
-
-### 🌐 Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend
+### Langages de Programmation
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🛡️ Sécurité
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burp-suite&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+### Backend & Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🗃️ Bases de Données
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### Bases de Données
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</details>
+### DevOps & Outils
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### CMS & Autres
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+
 </div>
 
-## 📊 GitHub Analytics Avancés
+---
+
+## 🚀 Projets Phares
 
 <div align="center">
 
-[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=votreusername&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+| Projet | Technologies | Description |
+|--------|-------------|-------------|
+| **🚦 Smart-Road** | Go, AI, IoT | Système de gestion intelligente d'intersections pour véhicules |
+| **💣 Bomberman & Bomberman-DOM** | JavaScript, WebSockets | Jeu Bomberman simple & multijoueur en temps réel |
+| **💬 Real-time Forum** | WebSockets, Go | Forum avec communication en temps réel |
+| **🌐 Social Network** | WebSockets, SPA | Réseau social avec single page application |
+| **🎯 GraphQL Project** | GraphQL, JWT, SVG | Projet complet avec authentification et UI/UX |
+| **🤖 Filler** | Rust, AI, Algorithms | Jeu d'IA avec algorithmes avancés |
+| **🎨 RT (Ray Tracer)** | Rust/Go | Moteur de rendu 3D par ray tracing |
+| **🖥️ Localhost** | Go, HTTP | Serveur HTTP custom avec protocole complet |
+| **🎮 Multiplayer-FPS** | Go/Rust | Version custom du jeu Maze Wars |
+| **🐚 0-Shell** | Rust | Shell Unix minimaliste inspiré de BusyBox |
+| **🎵 Groupie-Tracker** | Go, REST API | Site web avec manipulation de données d'API |
+| **🐜 Lem-In** | Go, Algorithms | Simulation numérique de fourmilière |
+| **🎨 Ascii-Art-Web** | Docker, Go | Générateur d'ASCII art dockerisé avec export |
+| **📦 Mini-Framework** | JavaScript | Framework custom avec TodoMVC |
+| **📥 WGET** | Go | Recréation de fonctionnalités wget (mirror) |
 
-[![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=votreusername&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-[![Streak Stats](https://streak-stats.demolab.com?user=votreusername&theme=radical&border_radius=5&mode=weekly&fire=DD2727)](https://git.io/streak-stats)
+---
 
-[![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=votreusername&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+## 💼 Expérience Professionnelle
+
+### 🏢 Développeur Full Stack | Zone01 Dakar
+**Septembre 2023 - Mars 2025 (1 an 10 mois)** | Dakar, Sénégal
+
+- ✅ Développement d'applications Full Stack avec **Go, Rust, TypeScript, Python**
+- ✅ Mise en place de **pipelines CI/CD** et automatisation complète
+- ✅ Création de solutions **SaaS, web, mobile** avec GraphQL et REST APIs
+- ✅ Mentorat technique auprès d'équipes junior
+- ✅ Architecture de systèmes scalables et performants
+
+### 🔧 Assistant Technique | K'Serv Group
+**Novembre 2022 - Mars 2023 (5 mois)** | Dakar, Sénégal
+
+- Support technique avancé et service client
+- Résolution de problèmes complexes
+
+### 📞 Stagiaire Téléconseiller | Le Groupe Way2Call
+**Août 2021 - Janvier 2022 (6 mois)** | Dakar, Sénégal
+
+- Assistance clients et développement de compétences en communication
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=papaamadou&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papaamadou&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=papaamadou&theme=radical&border_radius=5&mode=weekly&fire=DD2727" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=papaamadou&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🎓 Formation
+
+**Licence Professionnelle** en Sciences des Technologies de l'Information et de la Communication  
+📍 Université Amadou Hampathé BA | 2019 - 2022
+
+---
+
+## 💪 Soft Skills
+
+<div align="center">
+
+| Compétence | Niveau |
+|-----------|--------|
+| 🗣️ Communication | ████████████ 95% |
+| 🧩 Résolution de Problèmes | ████████████ 98% |
+| 👥 Travail en Équipe | ████████████ 90% |
+| 📋 Méthodologie Scrum | ███████████░ 85% |
+| 🎯 Gestion de Projet | ███████████░ 88% |
+
+</div>
+
+**Langues:** 🇫🇷 Français (Bilingue) | 🇬🇧 Anglais (Bilingue)
+
+---
+
+## 📫 Me Contacter
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-papaamadou53@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:papaamadou53@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Papa_Amadou_Sarr-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/papa-amadou-sarr734b63201)
+[![Twitter](https://img.shields.io/badge/Twitter-@ahmadou__sarr3-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ahmadou_sarr3)
+[![Phone](https://img.shields.io/badge/Phone-+221_77_281_2946-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+221772812946)
+
+**📍 122 HLM 4, Dakar, ST 11000, Sénégal**
+
+</div>
+
+---
+
+## 🎯 Services Proposés
+
+<div align="center">
+
+| Service | Description |
+|---------|-------------|
+| 💼 **Développement SaaS** | Applications cloud scalables et sécurisées |
+| 🌐 **Développement Web** | Sites web modernes et performants |
+| 📱 **Développement Mobile** | Applications mobiles cross-platform |
+| 🖥️ **Développement Logiciel** | Solutions logicielles sur mesure |
+| ⚙️ **DevOps & CI/CD** | Automatisation et déploiement continu |
+| 🎨 **UI/UX** | Interfaces utilisateur intuitives |
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 "Code with passion, deploy with confidence"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
+
+⭐️ N'hésitez pas à star mes repos si vous trouvez mes projets intéressants!
+
+**Merci de visiter mon profil!** 🙏
 
 </div>
