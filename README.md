@@ -3,11 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Papa%20Amadou%20Sarr&fontSize=50&fontAlignY=35&animation=fadeIn" alt="Header"/>
   
   <h3>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22F7A3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+@+Zone01+Dakar;Go+%7C+Rust+%7C+TypeScript+Specialist;DevOps+%26+CI/CD+Automation;Building+Scalable+Solutions" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22F7A3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Go+%7C+Rust+%7C+TypeScript+Specialist;DevOps+%26+CI/CD+Automation;Open+to+New+Opportunities;Building+Scalable+Solutions" alt="Typing Animation" />
   </h3>
   
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=papaamadou&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views"/> 
+    <img src="https://komarev.com/ghpvc/?username=papaamadousarr&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views"/> 
     <a href="https://twitter.com/ahmadou_sarr3"><img src="https://img.shields.io/twitter/follow/ahmadou_sarr3?logo=twitter&style=flat-square" alt="Twitter Follow"/></a>
     <a href="https://linkedin.com/in/papa-amadou-sarr734b63201"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
     <img src="https://img.shields.io/badge/Dakar-Senegal-008751?logo=location&style=flat" alt="Location"/>
@@ -18,9 +18,11 @@
 
 ## 👨‍💻 À Propos de Moi
 
-**Développeur Full Stack & DevOps** passionné par la création d'applications scalables et l'automatisation. Actuellement chez **Zone01 Dakar** avec **2+ ans d'expérience** dans le développement de solutions innovantes.
+**Développeur Full Stack & DevOps** passionné par la création d'applications scalables et l'automatisation. Fort de **2+ ans d'expérience** dans le développement de solutions innovantes, je suis actuellement **à la recherche de nouvelles opportunités** pour mettre mes compétences au service de projets ambitieux.
 
 🎓 **Diplômé** en Sciences des Technologies de l'Information et de la Communication (Université Amadou Hampathé BA)
+
+💼 **Statut :** Disponible immédiatement pour missions freelance, CDI ou CDD
 
 <div align="center">
 
@@ -120,7 +122,7 @@ const passions = {
 ## 💼 Expérience Professionnelle
 
 ### 🏢 Développeur Full Stack | Zone01 Dakar
-**Septembre 2023 - Mars 2025 (1 an 10 mois)** | Dakar, Sénégal
+**Septembre 2023 - Mars 2025 (1 an 6 mois)** | Dakar, Sénégal
 
 - ✅ Développement d'applications Full Stack avec **Go, Rust, TypeScript, Python**
 - ✅ Mise en place de **pipelines CI/CD** et automatisation complète
@@ -144,16 +146,37 @@ const passions = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=papaamadou&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papaamadou&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-</div>
+  
+### 📈 Statistiques Générales
+  
+<a href="https://github.com/papaamadou">
+  <img src="https://github-readme-stats.vercel.app/api?username=papaamadousarr&show_icons=true&theme=tokyonight&count_private=true&hide_border=false&include_all_commits=true&border_radius=10&bg_color=0D1117&title_color=22F7A3&icon_color=22F7A3&text_color=FFFFFF&border_color=22F7A3"/>
+</a>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=papaamadou&theme=radical&border_radius=5&mode=weekly&fire=DD2727" alt="GitHub Streak"/>
-</div>
+### 💻 Langages les Plus Utilisés
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=papaamadou&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+<a href="https://github.com/papaamadou">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=papaamadousarr&layout=compact&theme=tokyonight&hide_border=false&langs_count=10&border_radius=10&bg_color=0D1117&title_color=22F7A3&text_color=FFFFFF&border_color=22F7A3&hide=html,css"/>
+</a>
+
+### 🔥 Contribution Streak
+
+<a href="https://github.com/papaamadou">
+  <img src="https://streak-stats.demolab.com?user=papaamadou&theme=tokyonight&border_radius=10&mode=weekly&fire=22F7A3&ring=22F7A3&currStreakLabel=22F7A3&background=0D1117&border=22F7A3" alt="GitHub Streak"/>
+</a>
+
+### 🏆 GitHub Trophées
+
+<a href="https://github.com/papaamadou">
+  <img src="https://github-profile-trophy.vercel.app/?username=papaamadousarr&theme=tokyonight&no-frame=false&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</a>
+
+### 📊 Graphique de Contribution
+
+<a href="https://github.com/papaamadou">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=papaamadousarr&theme=tokyo-night&hide_border=false&border_radius=10&bg_color=0D1117&color=22F7A3&line=22F7A3&point=FFFFFF&area=true&area_color=22F7A3" alt="Contribution Graph"/>
+</a>
+
 </div>
 
 ---
@@ -210,6 +233,24 @@ const passions = {
 | 🖥️ **Développement Logiciel** | Solutions logicielles sur mesure |
 | ⚙️ **DevOps & CI/CD** | Automatisation et déploiement continu |
 | 🎨 **UI/UX** | Interfaces utilisateur intuitives |
+
+</div>
+
+---
+
+## 🚀 Recherche Active
+
+<div align="center">
+
+### 💡 Je suis actuellement à la recherche d'opportunités en tant que :
+
+**Développeur Full Stack** • **Ingénieur DevOps** • **Développeur Backend** • **Architecte Solutions**
+
+🌍 **Localisation :** Dakar, Sénégal (Ouvert au remote)  
+⏰ **Disponibilité :** Immédiate  
+💼 **Type de contrat :** CDI, CDD, Freelance, Missions
+
+**N'hésitez pas à me contacter pour discuter de vos projets !**
 
 </div>
 
