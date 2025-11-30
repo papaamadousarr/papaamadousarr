@@ -151,10 +151,6 @@ const passions = {
   
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=papaamadousarr&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&title_color=22F7A3&icon_color=22F7A3&text_color=FFFFFF)
 
-### 💻 Langages les Plus Utilisés
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=papaamadousarr&layout=compact&theme=tokyonight&langs_count=8&title_color=22F7A3&text_color=FFFFFF)
-
 ### 🔥 Contribution Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=papaamadousarr&theme=tokyonight&ring=22F7A3&fire=22F7A3&currStreakLabel=22F7A3)
