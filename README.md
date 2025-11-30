@@ -122,7 +122,7 @@ const passions = {
 ## 💼 Expérience Professionnelle
 
 ### 🏢 Développeur Full Stack | Zone01 Dakar
-**Septembre 2023 - Mars 2025 (1 an 6 mois)** | Dakar, Sénégal
+**Septembre 2023 - Juin 2025 (1 an 10 mois)** | Dakar, Sénégal
 
 - ✅ Développement d'applications Full Stack avec **Go, Rust, TypeScript, Python**
 - ✅ Mise en place de **pipelines CI/CD** et automatisation complète
@@ -146,36 +146,26 @@ const passions = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
+
 ### 📈 Statistiques Générales
   
-<a href="https://github.com/papaamadou">
-  <img src="https://github-readme-stats.vercel.app/api?username=papaamadousarr&show_icons=true&theme=tokyonight&count_private=true&hide_border=false&include_all_commits=true&border_radius=10&bg_color=0D1117&title_color=22F7A3&icon_color=22F7A3&text_color=FFFFFF&border_color=22F7A3"/>
-</a>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=papaamadousarr&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&title_color=22F7A3&icon_color=22F7A3&text_color=FFFFFF)
 
 ### 💻 Langages les Plus Utilisés
 
-<a href="https://github.com/papaamadou">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=papaamadousarr&layout=compact&theme=tokyonight&hide_border=false&langs_count=10&border_radius=10&bg_color=0D1117&title_color=22F7A3&text_color=FFFFFF&border_color=22F7A3&hide=html,css"/>
-</a>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=papaamadousarr&layout=compact&theme=tokyonight&langs_count=8&title_color=22F7A3&text_color=FFFFFF)
 
 ### 🔥 Contribution Streak
 
-<a href="https://github.com/papaamadou">
-  <img src="https://streak-stats.demolab.com?user=papaamadou&theme=tokyonight&border_radius=10&mode=weekly&fire=22F7A3&ring=22F7A3&currStreakLabel=22F7A3&background=0D1117&border=22F7A3" alt="GitHub Streak"/>
-</a>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=papaamadousarr&theme=tokyonight&ring=22F7A3&fire=22F7A3&currStreakLabel=22F7A3)
 
 ### 🏆 GitHub Trophées
 
-<a href="https://github.com/papaamadou">
-  <img src="https://github-profile-trophy.vercel.app/?username=papaamadousarr&theme=tokyonight&no-frame=false&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</a>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=papaamadousarr&theme=tokyonight&row=2&column=3&margin-w=15&margin-h=15)
 
-### 📊 Graphique de Contribution
+### 📊 Profil GitHub
 
-<a href="https://github.com/papaamadou">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=papaamadousarr&theme=tokyo-night&hide_border=false&border_radius=10&bg_color=0D1117&color=22F7A3&line=22F7A3&point=FFFFFF&area=true&area_color=22F7A3" alt="Contribution Graph"/>
-</a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=papaamadousarr&theme=tokyonight)
 
 </div>
 
