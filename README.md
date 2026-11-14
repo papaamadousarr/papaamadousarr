@@ -1,15 +1,4 @@
-<!-- Header Animé -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Papa%20Amadou%20Sarr&fontSize=50&fontAlignY=35&animation=fadeIn" alt="Header"/>
-  
-  <h3>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22F7A3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Go+%7C+Rust+%7C+TypeScript+Specialist;DevOps+%26+CI/CD+Automation;Open+to+New+Opportunities;Building+Scalable+Solutions" alt="Typing Animation" />
-  </h3>
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=papaamadousarr&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views"/> 
-    <a href="https://twitter.com/ahmadou_sarr3"><img src="https://img.shields.io/twitter/follow/ahmadou_sarr3?logo=twitter&style=flat-square" alt="Twitter Follow"/></a>
-    <a href="https://linkedin.com/in/papa-amadou-sarr734b63201"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/papa-amadou-sarr734b63201"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
     <img src="https://img.shields.io/badge/Dakar-Senegal-008751?logo=location&style=flat" alt="Location"/>
   </p>
 </div>
