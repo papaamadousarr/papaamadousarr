@@ -221,7 +221,7 @@ const passions = {
 
 **Développeur Full Stack** • **Ingénieur DevOps** • **Développeur Backend** • **Architecte Solutions**
 
-🌍 **Localisation :** Dakar, Sénégal (Ouvert au remote)  
+🌍 **Localisation :** Casablanca, Maroc (Ouvert au remote)  
 ⏰ **Disponibilité :** Immédiate  
 💼 **Type de contrat :** CDI, CDD, Freelance, Missions
 
