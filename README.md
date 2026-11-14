@@ -7,7 +7,7 @@
 
 ## 👨‍💻 À Propos de Moi
 
-**Développeur Full Stack & DevOps** passionné par la création d'applications scalables et l'automatisation. Fort de **2+ ans d'expérience** dans le développement de solutions innovantes, je suis actuellement **à la recherche de nouvelles opportunités** pour mettre mes compétences au service de projets ambitieux.
+**Développeur Full Stack & DevOps** passionné par la création d'applications scalables et l'automatisation. Fort de **3+ ans d'expérience** dans le développement de solutions innovantes, je suis actuellement **à la recherche de nouvelles opportunités** pour mettre mes compétences au service de projets ambitieux.
 
 🎓 **Diplômé** en Sciences des Technologies de l'Information et de la Communication (Université Amadou Hampathé BA)
 
